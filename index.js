@@ -7,3 +7,6 @@ const greet = () => {
 
 const test1 = () => {};
 const test2 = () => {};
+
+const fullName1 = () => {};
+const fullName2 = () => {};
